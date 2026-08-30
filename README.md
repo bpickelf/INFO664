@@ -4,9 +4,9 @@
 ## The Metropolitan Museum of Art Open Access CSV
 The Met museum has come under scrutiny in recent years for their lack of addressing how Native American artists and artworks are represented throughout the collection. While there is definitely room for improvement nationwide for documentation of indigenous communities, practices, artists and artworks, many of the inconsistencies and losses of information we see today are due to the long history of colonization and active efforts to erase their histories. The terms and names currently used throughout the Met's collection are often phrased in funny ways due to varying levels of certainty. 
 
-I want to use the Met API to observe the terms and languages used to describe indigenous art and artists of North America throughout their collection. Using sources like Native Governance Center Terminology Style Guide, 
+I want to use the Met API to observe the terms and languages used to describe indigenous art and artists of North America throughout their collection. How many objects in the collection represent indigenous artists and communities? What North American tribes and communities are represented? What terms are used to describe them? Are there any that standout as outliers? Using sources like Native Governance Center Terminology Style Guide, 
 
-##
+## Museum of Modern Art (MoMA)
 
 ##
 
