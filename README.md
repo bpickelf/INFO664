@@ -1,17 +1,15 @@
 # INFO664: Datasets Exploration
 
 
-## The Metropolitan Museum of Art Open Access CSV
+## [The Metropolitan Museum of Art Open Access CSV] (https://www.metmuseum.org/hubs/open-access)
 The Met museum has come under scrutiny in recent years for their lack of addressing how Native American artists and artworks are represented throughout the collection. While there is definitely room for improvement nationwide for documentation of indigenous communities, practices, artists and artworks, many of the inconsistencies and losses of information we see today are due to the long history of colonization and active efforts to erase their histories. The terms and names currently used throughout the Met's collection are often phrased in funny ways due to varying levels of certainty. 
 
 I want to use the Met API to observe the terms and languages used to describe indigenous art and artists of North America throughout their collection. How many objects in the collection represent indigenous artists and communities? What North American tribes and communities are represented? What terms are used to describe them? Are there any that standout as outliers? Using sources like Native Governance Center Terminology Style Guide, guidance from the University of British Columbia Indigenous Knowledge Organization Guide, and other sources. 
 
-## Museum of Modern Art (MoMA)
+## [NYPL] (https://github.com/NYPL-publicdomain/data-and-utilities#items)
+I am particularly interested in the Billy Rose Theater Division and its collections.
 
-## NYPL
-I am particularly interested in the Billy Rose Theater Division and its collections, but there is very little included in the Digital Collections from this Division. 
-
-### Collections included in collections.csv:
+### Collections included in collections.csv from Billy Rose Theater Division:
 1. Billy Rose Theatre Collection photograph file (2589a880-c52c-012f-2cb4-58d385a7bc34)
 2. Billy Rose Theatre Division scrapbooks (45013f40-c555-012f-c94a-3c075448cc4b)
 3. Billy Rose Theater Collection clipping file (2e21da80-c608-012f-bfe9-58d385a7bc34)
@@ -25,7 +23,7 @@ I am particularly interested in the Billy Rose Theater Division and its collecti
 
 Despite all of these Collection UUIDs being included in the CSV, here is very little included in the Digital Collections from this Division. This is likely not useful for my interests. and there is not enough data to build something out of it.
 
-## Whitney Museum 
+## [Whitney Museum of American Art] (https://whitney.org/open-access)
 ### Artists
 The Artists CSV from the Whitney museum contains names, Begin Dates (assuming birth), End Dates (assuming death dates), Getty ULAN IDs, and WikiData IDs. These IDs allow my the chance to bring in data from those sources and look other information when present like where they wre born and died.
 
