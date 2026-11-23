@@ -1,0 +1,23 @@
+city,state,county,country,region,subregion,locale,locus,excavation,river,artwork_count,geocode_query,latitude,longitude,matched_location,osm_type,osm_id
+,Nunavut,,Canada,Baffin Island,,,,,,80,"Baffin Island, Nunavut, Canada",68.6104434,-73.2472788,"West Baffin Island Airport (abandoned), ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",aerodrome,8259106031.0
+,Alaska,,United States,,,,,,,30,"Alaska, United States",64.4459613,-149.680909,"Alaska, United States",administrative,1116270.0
+,Quebec,,Canada,,,,,,Hudson Bay,14,"Hudson Bay, Quebec, Canada",50.4124865,-73.8750084,"Hudson’s Bay Trading Post, Rue Amisk, Mistassini, ᒥᔅᑎᓯᓃ (ᐊᔅᒌ) / Mistissini (terre), ᐄᔨᔨᐤ ᐊᔅᒌ ᒉᐃᒥᔅ ᐯᐃ Eeyou Istchee Baie-James, ᐄᔨᔨᐤ ᐊᔅᒌ Eeyou Istchee, Nord-du-Québec, Québec, Canada",yes,499363632.0
+,Nunavut,,Canada,Belcher Islands,,,,,Hudson Bay,13,"Belcher Islands, Hudson Bay, Nunavut, Canada",,,,,
+,Nunavut,,Canada,,,,,,Hudson Bay,9,"Hudson Bay, Nunavut, Canada",63.731645,-68.4588802,"Hudson's Bay Company, 3605, ᐱᐅ ᒫᑭᓐᓯ ᐊᖅᑯᑦ Bill Mackenzie Lane, Iqaluit, Iqaluit ᐃᖃᓗᐃᑦ, ᐃᖃᓗᐃᑦ, ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, X0A 0H0, Canada",yes,304820811.0
+,Nunavut,,Canada,Baffin Island,,,,,Patricia Bay,9,"Baffin Island, Patricia Bay, Nunavut, Canada",,,,,
+,Nunavut,,Canada,Baffin Island,,,,,Hudson Bay,3,"Baffin Island, Hudson Bay, Nunavut, Canada",,,,,
+,Nunavut,,Canada,,,,,,Ennadai Lake,3,"Ennadai Lake, Nunavut, Canada",60.9124163,-101.1702239,"Ennadai Lake, ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",lake,17456236.0
+,Nunavut,,Canada,King William Island,,,,,,2,"King William Island, Nunavut, Canada",69.1800144,-97.4774908,"ᕿᑭᖅᑕᖅ King William Island - Île du Roi-Guillaume, ᓄᓇᕗᑦ Nunavut, Canada",island,3958580.0
+,Nunavut,,Canada,,,,,,Pelly Bay,2,"Pelly Bay, Nunavut, Canada",68.7713215,-90.2320673,"Pelly Bay, ᓄᓇᕗᑦ Nunavut, Canada",bay,13808789.0
+,Nunavut,,Canada,,,,,,Coppermine River,2,"Coppermine River, Nunavut, Canada",66.6313308,-114.8690843,"Coppermine River, ᕿᑎᕐᒥᐅᑦ Kitikmeot Region, ᓄᓇᕗᑦ Nunavut, Canada",stream,1569249844.0
+Point Barrow,Alaska,,United States,,,,,,,1,"Point Barrow, Alaska, United States",71.3865172,-156.4741383,"Point Barrow, North Slope Borough, Alaska, United States",cape,846344804.0
+,Quebec,,Canada,,,,,,Nastapoka River,1,"Nastapoka River, Quebec, Canada",56.5627341,-74.5846582,"Rivière Nastapoka, Québec, Canada",river,11793506.0
+,Nunavut,,Canada,,,,,,,1,"Nunavut, Canada",65.0377727,-92.5540791,"ᓄᓇᕗᑦ Nunavut, Canada",administrative,390840.0
+,Nunavut,,Canada,,,,,,Thelon River,1,"Thelon River, Nunavut, Canada",64.7419205,-97.4273134,"Thelon River, ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",flowline,1432092938.0
+,Nunavut,,Canada,Melville Peninsula,,,,,,1,"Melville Peninsula, Nunavut, Canada",68.0475568,-83.7222284,"Melville Peninsula, ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",peninsula,9265118781.0
+,Nunavut,,Canada,Queen Elizabeth Islands,,,,,,1,"Queen Elizabeth Islands, Nunavut, Canada",80.0039596,-92.9934928,"Queen Elizabeth Islands, ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",island,9874242185.0
+Point Barrow (Nuvuk),Alaska,,United States,,,,,,,1,"Point Barrow (Nuvuk), Alaska, United States",71.3865172,-156.4741383,"Point Barrow, North Slope Borough, Alaska, United States",cape,846344804.0
+,Nunavut,,Canada,Baffin Island,,,,,Frobisher Bay,1,"Baffin Island, Frobisher Bay, Nunavut, Canada",,,,,
+,Northwest Territories,,Canada,Mackenzie Delta,,,,,Mackenzie River,1,"Mackenzie Delta, Mackenzie River, Northwest Territories, Canada",,,,,
+,Alaska,,United States,Norton Sound,,,,,,1,"Norton Sound, Alaska, United States",61.1733392,-149.9816819,"Norton Sound Seafood House, Arrivals, Anchorage, Alaska, 99530, United States",restaurant,13164987489.0
+,Quebec,,Canada,,,,,,Povungnituk River,1,"Povungnituk River, Quebec, Canada",,,,,
